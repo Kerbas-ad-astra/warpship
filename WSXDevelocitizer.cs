@@ -16,7 +16,7 @@ namespace WarpShip
 		[KSPField(guiActive = true, guiName = "Develocitizer", guiActiveEditor = false)]
 		public string rechargeNotice = "Ready";
 
-		[KSPField(isPersistant = true, guiActive = true, guiName = "Reference Frame", guiActiveEditor = false)]
+        [KSPField(isPersistant = true, guiActive = true, guiName = "Reference Frame", guiActiveEditor = false)]
 		public string rFrame = "Local";
 
 		[KSPField(isPersistant = true)]
@@ -93,9 +93,9 @@ namespace WarpShip
 				double powerCost = (int)speedToCancel * powerMultiplier;
 				double powerGot = WSXStuff.ThingAvailable(vessel, resourceUsed);
 				if (powerGot < powerCost) {
-					rechargeNotice = "No power";
-					this.recharge = 2.0f;
-					return;
+					rechargeNotice = "Partial Devlocitize";
+					this.recharge = 5.0f;
+                    powerCost = powerGot;
 				}
 
 				powerDrain = (float)powerCost;
