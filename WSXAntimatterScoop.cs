@@ -51,7 +51,9 @@ namespace WarpShip
 					baseAntimatter = 6.25;
 			} else if (atSun) {
 				baseAntimatter = 100.0;
-			} else
+			} else if (body.referenceBody) {
+				baseAntimatter = 3.5;
+			} else 
 				return 0.0;
 
 			double bestAlt = 1.5 * body.Radius;
