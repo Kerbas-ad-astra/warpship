@@ -35,7 +35,7 @@ namespace WarpShip
 			
 		public bool ContainmentBreach()
 		{
-			WSXStuff.RedAlert(vessel);
+//			WSXStuff.RedAlert(vessel);
 			WSXStuff.PowerfulExplosion(part);
 			return false;
 		}

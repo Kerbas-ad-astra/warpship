@@ -9,17 +9,17 @@ namespace WarpShip
 		private const float builtinExplosionRadius = 8f;
 		private const float builtinExplosionMultiplier = 8000f;
 
-		public static void RedAlert(Vessel vessel) {
-			if (vessel != null) {
-				foreach (Part p in vessel.parts) {
-					WarpDrive wd = p.FindModuleImplementing<WarpDrive> ();
-					if (wd) {
-						wd.CallRedAlert ();
-						return;
-					}
-				}
-			}
-		}
+//		public static void RedAlert(Vessel vessel) {
+//			if (vessel != null) {
+//				foreach (Part p in vessel.parts) {
+//					WarpDrive wd = p.FindModuleImplementing<WarpDrive> ();
+//					if (wd) {
+//						wd.CallRedAlert ();
+//						return;
+//					}
+//				}
+//			}
+//		}
 
 		public static void PowerfulExplosion(Part p, float explosionMultiplier = 1f, float explosionRadius = 1f)
 		{

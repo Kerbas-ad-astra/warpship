@@ -1,3 +1,10 @@
+0.3.3b: Apr 20 2016
+- Updated to KSP 1.1
+- Fixed Solar Panels on Main Hull
+- Added experimental Magnetic Pulse drive
+- Added RemoteTech support
+- Added DeepFreeze support
+
 0.3.2: Jun 13 2015
 - Multiple Develocitizers now reduce the power requirement
 - Made the Command Module's lights toggleable
