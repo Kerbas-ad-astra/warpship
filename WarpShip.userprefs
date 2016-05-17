@@ -1,14 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WSXContainmentSystem.cs">
-    <Files>
-      <File FileName="WSXWarpDrive.cs" Line="184" Column="11" />
-      <File FileName="WSXFSFuelSwitch.cs" Line="211" Column="31" />
-      <File FileName="WSXDevelocitizer.cs" Line="63" Column="5" />
-      <File FileName="WSXStuff.cs" Line="12" Column="5" />
-      <File FileName="WSXContainmentSystem.cs" Line="38" Column="6" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
