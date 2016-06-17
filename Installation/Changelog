@@ -1,3 +1,6 @@
+0.3.6b: May 17 2016
+- Fixed a bug that would make the alcubierre drive not work in space above the min altitude.
+
 0.3.5: Apr 30 2016
 - Compiled against KSP1.1.2
 
