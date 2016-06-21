@@ -1,3 +1,14 @@
+0.3.7: June 20 2016
+- Modified MainHull to have a Tokamak Reactor
+- Modified FuelTank to contain LqdDeuterium and LqdHe3
+- mod now also depends on CommunityResourcePack
+- Modified SupportRing to contain Portable Hadron Collider
+- Modified Joolscoop to extract XenonGas from any Athmosphere (i hope)
+- Replaced IXSCommandPod’s IVA with FatCholesterol’s StarTrek-like IVA 
+- resource flow for warp drive is now as follows:
+Solar Panels -> ElectricCharge + LqdDeuterium (in Tokamak) -> more ElectricCharge(1.21GW!!!!) + LqdHe3 (in PHC) -> eXoticMatter + ElectricCharge + XenonGas (in Alcubierre Drive) = Warpspeed
+
+
 0.3.6b: May 17 2016
 - Fixed a bug that would make the alcubierre drive not work in space above the min altitude.
 

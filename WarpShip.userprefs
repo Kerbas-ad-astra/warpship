@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="WSXContainmentSystem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WSXFSFuelSwitch.cs">
     <Files>
       <File FileName="WSXAtmosphericScoop.cs" Line="1" Column="1" />
       <File FileName="WSXContainmentSystem.cs" Line="1" Column="1" />
+      <File FileName="WSXFSAnimateGeneric.cs" Line="1" Column="1" />
+      <File FileName="WSXFSFuelSwitch.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
