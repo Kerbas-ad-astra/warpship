@@ -9,7 +9,7 @@ namespace WarpShip
 		public string worksAt = "Jool";
 
 		[KSPField(isPersistant = false)]
-		public string scoops = "JoolGas";
+		public string scoops = "XenonGas";
 
 		[KSPField(isPersistant = false)]
 		public string intakeTransformName = "Intake";
