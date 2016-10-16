@@ -1,3 +1,7 @@
+/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/WarpShip.dll.mdb
+/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/WarpShip.dll
+/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/obj/Release/WarpShip.dll
+/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/obj/Release/WarpShip.dll.mdb
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/Assembly-CSharp.dll
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/UnityEngine.dll
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/KSPUtil.dll
@@ -8,7 +12,3 @@
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/TrackIRUnity.dll
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/Mono.Cecil.dll
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/Vectrosity.dll
-/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/WarpShip.dll.mdb
-/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/WarpShip.dll
-/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/obj/Release/WarpShip.dll
-/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/obj/Release/WarpShip.dll.mdb
